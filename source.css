@@ -1,0 +1,14 @@
+.bod {
+	margin: 0 auto;
+	margin-top: 25px;
+	width: 960px;
+	background-color: #f2f2f2;
+}
+.font {
+	font-style: italic;
+	margin: 25px;
+}
+
+.font p {
+	margin: 25px; 
+}
